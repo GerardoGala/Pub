@@ -17,12 +17,7 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script><script>// Overriding the script injection to force the /Pub/ subfolder path
-    window.addEventListener('DOMContentLoaded', (event) => {
-        if (typeof PagefindUI !== 'undefined') {
-            new PagefindUI({ 
-                element: "#search", 
-                bundlePath: "/Pub/pagefind/" 
-            });
-        }
-    });</script></body></html>
+        }</script><script>new PagefindUI({ 
+    element: "#search", 
+    bundlePath: "/Pub/pagefind/"
+});</script></body></html>
