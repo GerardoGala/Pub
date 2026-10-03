@@ -9,4 +9,4 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script><script src="/Pub/pagefind/pagefind-component-ui.js"></script></body></html>
+        }</script>new PagefindUI({ element: "#search", bundlePath: "/Pub/pagefind/", // 👇 ADD THIS SECTION TO CONVERT .html TO A TRAILING SLASH urlReplacer: function(url) { if (url.endsWith('.html')) { return url.slice(0, -5) + '/'; } return url; } });</body></html>
