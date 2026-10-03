@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "205b41bd30a8a8506993db2549069e21"
+        "md5": "2aa0fb54ae1820eed682dc3c1b3c577a"
     },
     {
         "path": "4th-post",
@@ -12,7 +12,7 @@
     {
         "path": "/4th-post/index.html",
         "type": "file",
-        "md5": "5ff229945c85651060218df3ee88121e"
+        "md5": "ee18ce804c79122773519266b6b25818"
     },
     {
         "path": "5",
@@ -22,7 +22,7 @@
     {
         "path": "/5/index.html",
         "type": "file",
-        "md5": "6048c8efb2bdf537a249b57b9f25f850"
+        "md5": "fcb72a64a3cd1b28c9fc262b8d62cd13"
     },
     {
         "path": "5th-post",
@@ -32,7 +32,7 @@
     {
         "path": "/5th-post/index.html",
         "type": "file",
-        "md5": "ad5b3a69457c0cdfae30827051e6fbdc"
+        "md5": "0d45d4784de416903540c5dbcbb46efa"
     },
     {
         "path": "a-new-post",
@@ -42,7 +42,7 @@
     {
         "path": "/a-new-post/index.html",
         "type": "file",
-        "md5": "44a974b322cf9b597752ea88de94897f"
+        "md5": "6ce08bcb4e8070debd5c17ac8ee40941"
     },
     {
         "path": "about-us",
@@ -52,7 +52,7 @@
     {
         "path": "/about-us/index.html",
         "type": "file",
-        "md5": "f9598bbc35d73bcfaf00bc1f417972c0"
+        "md5": "4de726d359208bd1a8253a15f343ce09"
     },
     {
         "path": "assets",
@@ -152,12 +152,22 @@
     {
         "path": "/authors/gerardo-gala/index.html",
         "type": "file",
-        "md5": "6177bf0f85af7866b200e84c7dd5d9f7"
+        "md5": "7708d1973263a01c21747f8f555aa194"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "67279942e384931bef435ec16c48587a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "2541cfef7d79116f65d1dfc399f001d8"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a48ef0a13172b7cb81d46d15f925d011"
+        "md5": "2ee13f8c2d22030c24aa1c44b7cdb5d5"
     },
     {
         "path": "instructors",
@@ -167,7 +177,7 @@
     {
         "path": "/instructors/index.html",
         "type": "file",
-        "md5": "132b243ba3bffd03fb0895ff05c8d5fd"
+        "md5": "72c46f3906fc67b053015b4bc3b0dee3"
     },
     {
         "path": "media",
@@ -757,7 +767,7 @@
     {
         "path": "/online-courses-2/index.html",
         "type": "file",
-        "md5": "025a0361187fafc5f7860116dab48237"
+        "md5": "f8cd260ff6e69c8a597cfb72832635cc"
     },
     {
         "path": "rentals",
@@ -767,12 +777,12 @@
     {
         "path": "/rentals/index.html",
         "type": "file",
-        "md5": "529811cc9ed6f4a289531f829cd0932d"
+        "md5": "90b32bd51254fdccfde2add7d5124c71"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+        "md5": "347513bcdb8bcfef1d1294f5d8d025bf"
     },
     {
         "path": "sailboats",
@@ -782,7 +792,7 @@
     {
         "path": "/sailboats/index.html",
         "type": "file",
-        "md5": "6929cd2e5ac54ac84612c04f9ac5bfb4"
+        "md5": "ce27bfe5ef5e6d1e1b5ad96173df41c3"
     },
     {
         "path": "sailing-concepts-2",
@@ -792,7 +802,17 @@
     {
         "path": "/sailing-concepts-2/index.html",
         "type": "file",
-        "md5": "b50b70f9868948f68a33c8c9bf6fc661"
+        "md5": "8845c5adcdc2b156717a9119eb1ba2e4"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "07de2866297fd322504f522ed777fc38"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
         "path": "tags",
@@ -807,12 +827,12 @@
     {
         "path": "/tags/blog/index.html",
         "type": "file",
-        "md5": "dce02c3f31426ab4314c55770321ec2f"
+        "md5": "a8a93f506d40f3b0200fe0dda618d092"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0910e78f35705955e089d8585f4929a3"
+        "md5": "f3600eac70a7d44ac0ee684f6f131f7a"
     },
     {
         "path": "test",
@@ -822,6 +842,6 @@
     {
         "path": "/test/index.html",
         "type": "file",
-        "md5": "e47786240ecda726deadfd4a2c7c3387"
+        "md5": "bc81f358dc5df34143127821a6f94892"
     }
 ]
