@@ -17,7 +17,22 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script><script>new PagefindUI({ 
-    element: "#search", 
-    bundlePath: "/Pub/pagefind/"
-});</script></body></html>
+        }</script><script>// Mutate and intercept the link element immediately before the browser can fire the 404
+  (function() {
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        mutation.addedNodes.forEach((node) => {
+          // Check for the broken Pagefind CSS link injected by the plugin
+          if (node.tagName === 'LINK' && node.getAttribute('href') === '/pagefind/pagefind-component-ui.css') {
+            node.setAttribute('href', '/Pub/pagefind/pagefind-component-ui.css');
+          }
+          // Check for the broken Pagefind JavaScript link injected by the plugin
+          if (node.tagName === 'SCRIPT' && node.getAttribute('src') === '/pagefind/pagefind-component-ui.js') {
+            node.setAttribute('src', '/Pub/pagefind/pagefind-component-ui.js');
+          }
+        });
+      });
+    });
+
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+  })();</script></body></html>
