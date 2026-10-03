@@ -2,27 +2,32 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "bfeca7dbbe2e0112bdc5587dfe761d66"
+        "md5": "22ea0aff8ee0b72dd73b702b69677b00"
     },
     {
         "path": "4th-post.html",
         "type": "file",
-        "md5": "92dcb4f08615644290382131ba0d7869"
+        "md5": "304377b9710a2dce3c6373ddc973ba1e"
     },
     {
         "path": "5.html",
         "type": "file",
-        "md5": "ddf7e01d0a1e70b3481837656fcf72af"
+        "md5": "3b16fa9076cc7f36a809d967867e1388"
     },
     {
         "path": "5th-post.html",
         "type": "file",
-        "md5": "49ef4c66f2e5f9e9a1db9a82ec316cce"
+        "md5": "d84c8d3491706d328289575e6deb0dc0"
     },
     {
         "path": "a-new-post.html",
         "type": "file",
-        "md5": "e1a343cbfc4c98d59277390cb1f76081"
+        "md5": "b911eb1336df4752b7a28be410973f83"
+    },
+    {
+        "path": "about-us.html",
+        "type": "file",
+        "md5": "be9805a3bfe12b3ff73fa79c44804ed9"
     },
     {
         "path": "assets",
@@ -47,12 +52,32 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "47823d21d57599922198196425924797"
+        "md5": "b03ccea6e822381341bc4f0258820163"
     },
     {
         "path": "assets/dynamic",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/wixmadefortext",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/wixmadefortext/wixmadefortext-italic.woff2",
+        "type": "file",
+        "md5": "a0c10359d082a5b8c3c5bbaa38db8639"
+    },
+    {
+        "path": "/assets/dynamic/fonts/wixmadefortext/wixmadefortext.woff2",
+        "type": "file",
+        "md5": "70c6372a1db0cd6dd1c35a350e7f5e31"
     },
     {
         "path": "assets/js",
@@ -102,17 +127,17 @@
     {
         "path": "/authors/gerardo-gala/index.html",
         "type": "file",
-        "md5": "4f3c473f90eb590730a0be4224af8a73"
+        "md5": "b9468db96bd3c5c7cf23301c0a54c94b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "19624d46fcd9a3cf71bf9edfdfd2860c"
+        "md5": "215f9591052db1cff128ced973ec3c68"
     },
     {
         "path": "instructors.html",
         "type": "file",
-        "md5": "344ca544740ab8957e35b4f58e184449"
+        "md5": "e6c953cc63496fda1df39aef69c44515"
     },
     {
         "path": "media",
@@ -650,14 +675,59 @@
         "md5": "fb883dd8fe7e3480aed79a8c87983a42"
     },
     {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/favicon-32x32.png",
+        "type": "file",
+        "md5": "be9b04b1a717ec0f0e3c81203a45bade"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2xl.png",
+        "type": "file",
+        "md5": "5da92947151fe75785b296b4ee680265"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-lg.png",
+        "type": "file",
+        "md5": "5da92947151fe75785b296b4ee680265"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-md.png",
+        "type": "file",
+        "md5": "5da92947151fe75785b296b4ee680265"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-sm.png",
+        "type": "file",
+        "md5": "5da92947151fe75785b296b4ee680265"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-xl.png",
+        "type": "file",
+        "md5": "5da92947151fe75785b296b4ee680265"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-xs.png",
+        "type": "file",
+        "md5": "5da92947151fe75785b296b4ee680265"
+    },
+    {
         "path": "online-courses-2.html",
         "type": "file",
-        "md5": "d1ce50457b29ee36548f3e7bcc3ab843"
+        "md5": "682ae19a7ea5732ebece21473a9689b8"
     },
     {
         "path": "rentals.html",
         "type": "file",
-        "md5": "b43273629eed9d5737b3f597985624f4"
+        "md5": "0f2547290d5d8492321ca44d163572a7"
     },
     {
         "path": "robots.txt",
@@ -667,12 +737,12 @@
     {
         "path": "sailboats.html",
         "type": "file",
-        "md5": "860c2bd5b12b4d9fd45db3269c9edfd9"
+        "md5": "bd0a0d9c304c916c0d1059bb65bfc8ef"
     },
     {
         "path": "sailing-concepts-2.html",
         "type": "file",
-        "md5": "afb516010012405ff90289e54b4750ad"
+        "md5": "63e6d62f3146054b51246c13df685847"
     },
     {
         "path": "tags",
@@ -687,16 +757,16 @@
     {
         "path": "/tags/blog/index.html",
         "type": "file",
-        "md5": "7cd0fc1f060bd98664351b6f8a24c960"
+        "md5": "a0a62b25524344a3548d03f58a72292e"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8a58962d51a4b7f7aec3f610c9a2e584"
+        "md5": "6057ff14dcc38c5e5d18932963a827ba"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "0606a29844bb88e3f4944de47306f2f7"
+        "md5": "f20a66ff4d98280d7b18a6ab4fbafa54"
     }
 ]
