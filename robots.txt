@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://gerardogala.github.io/Pub/sitemap.xml
