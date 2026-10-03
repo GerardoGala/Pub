@@ -2,32 +2,32 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "308b1f95d2f905c275c717149ca9d818"
+        "md5": "641922cb2ccb42534f558fc65d902941"
     },
     {
         "path": "4th-post.html",
         "type": "file",
-        "md5": "295e0cec2c0d852f70d1479f2d7253db"
+        "md5": "2bdb89721ac72933130f7be3f48352fe"
     },
     {
         "path": "5.html",
         "type": "file",
-        "md5": "a2955a13ddd242df9331064216775757"
+        "md5": "55cac2e441de2ba2d95d6ee1497a57e6"
     },
     {
         "path": "5th-post.html",
         "type": "file",
-        "md5": "4f3aedcd251b27de8876e121a822129f"
+        "md5": "4cf8c58d12d692c3eda0974af7c403e6"
     },
     {
         "path": "a-new-post.html",
         "type": "file",
-        "md5": "02c7277f3bb1d9a6fbe9014647f0d6be"
+        "md5": "faf8615e7252b83e629eae52e6525232"
     },
     {
         "path": "about-us.html",
         "type": "file",
-        "md5": "13883f92e315b20f6e906cabcc82ea04"
+        "md5": "2a7454fb93555e269420b3bf838a2b19"
     },
     {
         "path": "assets",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/gerardo-gala/index.html",
         "type": "file",
-        "md5": "5f21c2d8df4edc113674665479a5deef"
+        "md5": "ea819b2040b35fd0a435a71e1aff8475"
     },
     {
         "path": "feed.json",
@@ -142,12 +142,12 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "aafefafa7772bc2039a26be8d1335ef4"
+        "md5": "49cd9d3f96ebfa6f8fda45e8ce3b25b5"
     },
     {
         "path": "instructors.html",
         "type": "file",
-        "md5": "af0a4c3432525a77c8675b7a3b81646d"
+        "md5": "914887cd78e31638e334b2c680b16d50"
     },
     {
         "path": "media",
@@ -732,12 +732,12 @@
     {
         "path": "online-courses-2.html",
         "type": "file",
-        "md5": "2ed23d2dd12c28592930b52667890587"
+        "md5": "a7be28b05083045cd9702a3a7d182951"
     },
     {
         "path": "rentals.html",
         "type": "file",
-        "md5": "7c1647bac6315cffcd2356b2b550d717"
+        "md5": "dad66f69e04d515ed754a2be3e77f6fb"
     },
     {
         "path": "robots.txt",
@@ -747,12 +747,12 @@
     {
         "path": "sailboats.html",
         "type": "file",
-        "md5": "3fb1dd64d76a9f67f90c1d10414a433f"
+        "md5": "56ce3be9296cfd7da6c841f1291bbf39"
     },
     {
         "path": "sailing-concepts-2.html",
         "type": "file",
-        "md5": "952c65030ce980e536050ea70503d5b9"
+        "md5": "cc52f3348fce434bc7ba64295ef1c0e6"
     },
     {
         "path": "sitemap.xml",
@@ -777,16 +777,16 @@
     {
         "path": "/tags/blog/index.html",
         "type": "file",
-        "md5": "0c3644924f01c01076605527e1eddc4a"
+        "md5": "6b6ace160d025e719cbd5fe466124cef"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4d649970c5050f254aa94043c0d3aed2"
+        "md5": "e3748850bdd658bd6df0122b3cfe25a4"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "96f949292e9dc5a0528c9743ee5d40dc"
+        "md5": "f1816b0683d282d94889bf713e99a521"
     }
 ]
